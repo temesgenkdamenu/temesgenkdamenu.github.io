@@ -28,6 +28,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Temesgen Kitaw Damenu is a Certified Information Security Manager (CISM). He has managerial and technical experience on cybersecurity, and worked for more than twelve years in the field. He was working in [Information Network Security Agency] (https://insa.gov.et/) of Ethiopia at different technical and managerial positions, including leading the Cyber Security Governance and Management Division. He was also providing cyber security course at Addis Ababa University in Ethiopia. He achieved different professional certifications including the Certified Information Security Manager (CISM) credential.
+
+He earned his MSc Degree in Information Security and IT Management from Edge Hill University in the UK, and his BSc Degree in Electrical Engineering from Bahir Dar University in Ethiopia. Temesgen is currently pursuing a PhD in Computer Science at the [University of Kent] (https://kent.ac.uk/) in the UK under the supervision of Prof. Shujun Li and Dr. Alexandra Covachi. His research focuses on cyber security and online safety education particularly for children and youth. He is eager to utilise and further develop his knowledge and skills by working and collaborating on human and managerial aspects of cyber security.
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
