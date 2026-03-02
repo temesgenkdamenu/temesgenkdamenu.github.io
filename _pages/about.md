@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student and Graduate Teaching Assistant (GTA), School of Computing, University of Kent.
 
 profile:
   align: right
