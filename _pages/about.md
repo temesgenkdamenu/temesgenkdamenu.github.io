@@ -9,6 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Temesgen Kitaw Damenu</p>
     <p>Kennedy Building</p>
     <p>University of Kent</p>
     <p>Canterbury, UK</p>
