@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Preprint":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"ICS":
+  url: https://www.emerald.com/insight/publication/issn/2056-4961
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"NGMAST":
+  url: https://ieeexplore.ieee.org/
+  color: "#00629b"
