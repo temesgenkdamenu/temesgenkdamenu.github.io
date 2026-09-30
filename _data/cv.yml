@@ -86,6 +86,9 @@ cv:
         start_date: 2008-08
         end_date: 2013-12
 
+    # Kept empty on purpose: the CV layout merges Experience with Volunteer and fails if Volunteer is missing.
+    Volunteer: []
+
     Publications:
       - title: "Cyber Security Educational Games for Children: A Systematic Literature Review"
         summary: "**Temesgen Kitaw Damenu**, İnci Zaim Gökbay, Alexandra Covaci, Shujun Li"
